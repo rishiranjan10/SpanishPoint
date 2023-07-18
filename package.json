@@ -1,0 +1,16 @@
+{
+  "name": "spanishpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:chrome": "npx cypress run --browser chrome",
+    "cy:chrome:open": "npx cypress open --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.1"
+  }
+}

@@ -1,0 +1,4 @@
+1- run `npm install` to install node_modules dependencies
+2- run `npm run cy:chrome` to run test case in chrome broswer
+Or
+2- run `npm run cy:chrome:open` to open cypress runner and execute the test case in chrome broswer
